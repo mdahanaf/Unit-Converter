@@ -1,0 +1,17 @@
+{
+    "name": "mdahanaf/simple-unit-converter",
+    "autoload": {
+        "psr-4": {
+            "Ahanaf\\": "src/",
+            "App\\": "app/"
+        },
+        "files": ["src/Helper/helpers.php"]
+    },
+    "authors": [
+        {
+            "name": "Md. Ahanaf Hossain",
+            "email": "iammdahanaf@gmail.com"
+        }
+    ],
+    "require": {}
+}
